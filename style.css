@@ -3,6 +3,8 @@ body {
            		 }
 			h1{
 				text-align: center;
+				display: inline-block;
+				margin-left: 10px;
 			}
 			#amizade {
 				margin-left: 350px
