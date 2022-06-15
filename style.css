@@ -1,6 +1,9 @@
 body {
             			background:#CD853F;
            		 }
+#logo{
+	display: inline-block;
+}
 			h1{
 				text-align: center;
 				display: inline-block;
